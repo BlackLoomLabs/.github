@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile/assets/blackloomai-logo.png" alt="BlackLoomLabs Logo" width="600"/>
+</p>
 # BlackLoomLabs
 
 Exploring the dark threads between AI and security. Every experiment is a new pattern in the loom.
